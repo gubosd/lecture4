@@ -1,2 +1,11 @@
+파이썬 다운로드
+==============
+https://www.python.org/downloads/
+Python 3.6.8 => 다운로드
+Windows x86-64 executable installer 클릭
+python-3.6.8-amd64.exe 실행
+
+파이썬 경로
+==========
 C:\Users\hwangheui\AppData\Local\Programs\Python\Python36\Scripts\
 C:\Users\hwangheui\AppData\Local\Programs\Python\Python36\
